@@ -11,8 +11,7 @@ Welcome To My GitHub Page 👋
 - 👩🏻‍🤝‍👨🏽 I'm looking to collaborate on data analysis jobs and projects that allow me to apply my skills and expertise to help organizations especially in the Healthcare and Development
 
 
-🍭 Connect with me on Linkedln
+🍭 Connect with me on [Linkedln](https://www.linkedin.com/in/iheoma-sunday-emenike)
 
 <!---
-fgghjj
-<!---
+
