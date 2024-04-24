@@ -1,8 +1,8 @@
-Hello 🤗
+# Hello 🤗
 
-Welcome To My GitHub Page 👋 
+# Welcome To My GitHub Page 👋 
 
-💫 About Me:
+# 💫 About Me:
 - ☑️ I'm a data analyst with background in the public health and development sector having over three (3) years’ experience.
 - ☑️ I am very passionate about driving positive changes in the Healthcare and Development Sector through Data Insights.
 - ☑️ Some of my transferrable skills from past roles are:Advocacy, capacity building, project management, quality report writing, Data Quality Assessment, as well as the use of project’s Management Information Systems (MIS) tools.
